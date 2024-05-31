@@ -1,0 +1,22 @@
+div{
+    border-bottom: dashed 2px black;
+    
+}
+h1{
+    text-align: center;
+}
+a{
+    text-align: right;
+    margin-bottom: 20px;
+    
+}
+.container{
+    background-image: url('https://cdn.culture.ru/images/8747eebd-37dd-584d-956b-dbe648d9e5a8');
+}
+p{
+    color:purple;
+    font-weight: 500;
+}
+li{
+    font-size: 25px;
+}
